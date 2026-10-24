@@ -1,2 +1,2 @@
 # Trabajo Final de Grado Ariel Fernandez
-Códigos utilizados para el desarrollo del trabajo final de la Licenciatura en Ciencias de Datos — UGR.
+Este repositorio contiene los cuatro notebooks desarrollados para el trabajo final con sus respectivos códigos, explicaciones y resultados de ejecución
